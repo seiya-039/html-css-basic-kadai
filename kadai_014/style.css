@@ -1,0 +1,30 @@
+body {
+    font-family: "Arial", "Meiryo", sans-serif;
+    font-size: 20px;
+}
+h1{
+    font-size: 40px;
+    font-family: 'Noto Sans JP', sans-serif;
+    text-align: center;
+    text-shadow: 1px 1px 2px gray;
+    letter-spacing: 1.2em;
+    border-bottom: solid 3px rgb(115,115,114);
+}
+main {
+    text-align: center;
+}
+#basic p {
+    font-weight: bold;
+}
+.first {
+    color: rgb(255,192,203);
+}
+.second {
+    color: skyblue;
+}
+.skyblue {
+    color: skyblue;
+}
+.pink {
+    color: pink;
+}
